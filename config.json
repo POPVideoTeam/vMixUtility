@@ -1,0 +1,19 @@
+{
+    "app": {
+        "countdown": 10
+    },
+    "schedule": {
+        "Monday": "C:\\vMix\\Monday.vmix",
+        "Tuesday": "C:\\vMix\\Tuesday.vmix",
+        "Wednesday": "C:\\vMix\\Wednesday.vmix",
+        "Thursday": "C:\\vMix\\Thursday.vmix",
+        "Friday": "C:\\vMix\\Friday.vmix",
+        "Saturday": "",
+        "Sunday": ""
+    },
+    "backup": {
+        "source": "C:/Users/Chris/OneDrive/Documents",
+        "target": "C:/Users/Chris/OneDrive/Documents/vMixStorage",
+        "max_age_days": 182
+    }
+}
